@@ -3,7 +3,7 @@
 - 👋 Olá, eu sou @nataliasvzz.
 - 👀 Estou interessado em jogos e prgramação.
 - 🌱 Estou aprendendo a programar Java Script, HTML e CSS.
-- 💞️ No meu tempo livre eu gosto de escutar música...
+- 💞️ No meu tempo livre eu gosto de escutar música, jogar...
 - 📫 Meu e-mail é natalia.bozz@escola.pr.gov.br
 
 <!---
